@@ -1,2 +1,2 @@
 # my-github
-My repository
+My repository for learning purpose
